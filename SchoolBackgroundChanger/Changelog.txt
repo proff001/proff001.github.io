@@ -1,0 +1,32 @@
+--------------->** Hva er nytt **<---------------
+
+Oppdatering 5: 12/10/2017
+
+1. jeg kan nå banne folk fra å bruke programmet
+
+2. fiksa noen bugs og endre Themen på change log(der du er nå)
+
+
+Oppdatering 4: 09/10/2017
+
+1. Endre et bakgrunnsbilde er nå raskere
+     Ved at vi fjerna progressbaren
+
+2. ChangeLogen (det vinduet du ser i nå)
+     Er fikset sånn at du kan se den meldingen her
+
+Oppdatering 3: --/--/----
+
+1. Endret Designe på Programmet
+2. Thomas ble med på å lage designe
+
+Oppdatering 2: --/--/----
+
+1. Auto Oppdateringer
+
+Oppdatering 1: --/--/----
+1. jeg la til at flere kunne bruke programmet enn meg
+
+
+Aleksander og Thomas
+--------------->** Hva er nytt **<---------------
