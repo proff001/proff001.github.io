@@ -1,6 +1,13 @@
 -----------------------------------
+V1.0.0:
++ Obscufed Code on Hub AND AutoUpdater
++ Switched Host to proff001.github.io
++ All programs except YT Downloader
+- Whitlist
+
 V0.1.0:
-+ Beta Release
++ RawGit Host
++ Under Privat Testing
 + AutoUpdater
 + Programs
 -----------------------------------
