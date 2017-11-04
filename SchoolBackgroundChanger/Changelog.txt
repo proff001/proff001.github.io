@@ -1,4 +1,15 @@
---------------->** Hva er nytt **<---------------
+﻿--------------->** Hva er nytt **<---------------
+
+Oppdatering 6: 2/11/2017 - siste oppdatering
+
+1. Nytt ikon
+
+2. Byttet Host
+
+
+3. Hvis dere skal dele programmet bruk linken her:
+https://proff001.github.io/SchoolBackgroundChanger/downloads/SchoolBackgroundChanger.exe
+
 
 Oppdatering 5: 12/10/2017
 
