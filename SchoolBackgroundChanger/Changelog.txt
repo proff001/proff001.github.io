@@ -1,43 +1,50 @@
-﻿--------------->** Hva er nytt **<---------------
+------------------------------ Updates ------------------------------
 
-Oppdatering 6: 2/11/2017 - siste oppdatering
+Update 7 ("The Scaling Update") : 12/11/2017 - Last Update
 
-1. Nytt ikon
+1. Recoded / Rewrite done by Thomas
 
-2. Byttet Host
+2. Thomas has gotten full resposibilety for this program
 
+3. Image scaling is now working and is added.
 
-3. Hvis dere skal dele programmet bruk linken her:
+4. Obscufed the program and AutoUpdater so no decompiling
+
+Update 6 ("The Host Switcher Update") : 2/11/2017
+
+1. New icon
+
+2. Switched Host
+
+3. If you want to share the program use the link here:
 https://proff001.github.io/SchoolBackgroundChanger/downloads/SchoolBackgroundChanger.exe
 
+Update 5 ("The Punish Update") : 12/10/2017
 
-Oppdatering 5: 12/10/2017
+1. I can now ban people from using the program
 
-1. jeg kan nå banne folk fra å bruke programmet
-
-2. fiksa noen bugs og endre Themen på change log(der du er nå)
-
-
-Oppdatering 4: 09/10/2017
-
-1. Endre et bakgrunnsbilde er nå raskere
-     Ved at vi fjerna progressbaren
-
-2. ChangeLogen (det vinduet du ser i nå)
-     Er fikset sånn at du kan se den meldingen her
-
-Oppdatering 3: --/--/----
-
-1. Endret Designe på Programmet
-2. Thomas ble med på å lage designe
-
-Oppdatering 2: --/--/----
-
-1. Auto Oppdateringer
-
-Oppdatering 1: --/--/----
-1. jeg la til at flere kunne bruke programmet enn meg
+2. Fix some bugs and changed Themen on change log form (where you are now)
 
 
-Aleksander og Thomas
---------------->** Hva er nytt **<---------------
+Update 4 ("The Speed Update") : 09/10/2017
+
+1. Changing a wallpaper is now faster
+      By removing the progress bar
+
+2. Change Log form (the window you see in now)
+      Fixed that you can see that message here
+
+Update 3 ("The Redesign Update") : - / - / ----
+
+1. Modify Design on the Program
+2. Thomas helped create the design
+
+Update 2 ("The AutoUpdater Update") : - / - / ----
+
+1. Auto Updates
+
+Update 1 ("The Release Update") : - / - / ----
+1. I added that more people could use the program than me
+
+Alexander and Thomas
+---------------------------------------------------------------------
