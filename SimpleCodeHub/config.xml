@@ -1,6 +1,6 @@
 <Programs>
-    <file SubPath="/Downloads/SimpleAdminBypass.exe" name="Admin Bypass" />
-    <file SubPath="/Downloads/SimpleAutoClicker.exe" name="Auto Clicker" />
-    <file SubPath="/Downloads/SimpleDiscordBigTextTool.exe" name="Discord Big Text Tool" />
-    <file SubPath="/Downloads/SimpleSpamTool.exe" name="Spam Tool" />
+    <file SubPath="/Downloads/SimpleAdminBypass.exe" name="Admin Bypass" changelog="" />
+    <file SubPath="/Downloads/SimpleAutoClicker.exe" name="Auto Clicker" changelog="" />
+    <file SubPath="/Downloads/SimpleDiscordBigTextTool.exe" name="Discord Big Text Tool" changelog="" />
+    <file SubPath="/Downloads/SimpleSpamTool.exe" name="Spam Tool" changelog="" />
 </Programs>
